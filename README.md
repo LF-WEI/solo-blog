@@ -10,6 +10,7 @@ LF-WEI 的个人博客
 
 ### 最新
 
+* [关于孕吐的心得体会](https://www.adu8881.com/articles/2019/09/25/1569378248540.html)
 * [世界，你好！](https://www.adu8881.com/hello-solo)
 
 

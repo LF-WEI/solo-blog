@@ -10,6 +10,7 @@ LF-WEI 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.adu8881.com/my-github-repos)
 * [关于孕吐](https://www.adu8881.com/articles/2019/10/23/1571778619208.html)
 * [世界，你好！](https://www.adu8881.com/hello-solo)
 
